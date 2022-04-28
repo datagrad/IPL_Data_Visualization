@@ -1,4 +1,4 @@
-# IPL_Data_Visualization
+# IPL_Data_Visualization in Tableau
 
 ![IPL Season Statistics](https://user-images.githubusercontent.com/73750698/165800718-19b5a1bd-6f9f-42cc-8759-324f08112859.JPG)
 
